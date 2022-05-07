@@ -1,7 +1,7 @@
 
 
-<!-- <img src="https://media.giphy.com/media/PLGtXGjpuYv7HFcMJM/giphy.gif" width="200px"/>
-<img src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="100"/>
+
+<!-- <img src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="100"/>
   <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="100"/>
   <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width="100"/>
   <img src="https://media.giphy.com/media/pT4hk0FMDu5VT0oRQc/giphy.gif" width="100"/>
@@ -13,7 +13,7 @@
 
 <div>
   <h1>
-<!--   <img src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="30%" font-size:"0" display: "block"/> -->
+<!--   <img src="https://media.giphy.com/media/PLGtXGjpuYv7HFcMJM/giphy.gif" padding-top= "0" width="35%"/> -->
   <img src="https://media.giphy.com/media/rQe5QEIIodLWcrBwbz/giphy.gif" width="100px"/>
   Welcome to my GitHub!
   </h1>
@@ -46,4 +46,12 @@
 height="40"/>&nbsp;
 </div>
 
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rosy24dr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rosy24dr&theme=dark&background=000000)](https://git.io/streak-stats)
 
