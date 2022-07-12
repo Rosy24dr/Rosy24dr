@@ -14,7 +14,7 @@
 <div>
   <h1>
 <!--   <img src="https://media.giphy.com/media/PLGtXGjpuYv7HFcMJM/giphy.gif" padding-top= "0" width="35%"/> -->
-  <img src="https://media.giphy.com/media/rQe5QEIIodLWcrBwbz/giphy.gif" height="150px" width="10px"/>
+  <img src="https://media.giphy.com/media/rQe5QEIIodLWcrBwbz/giphy.gif" height="150px" width="100px"/>
   Welcome to my GitHub!
   </h1>
 </div>
