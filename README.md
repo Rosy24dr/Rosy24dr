@@ -12,21 +12,20 @@
 <div id="header" align="center">
 
 <div>
-  <h1>
-<!--   <img src="https://media.giphy.com/media/PLGtXGjpuYv7HFcMJM/giphy.gif" padding-top= "0" width="35%"/> -->
   <img src="https://media.giphy.com/media/rQe5QEIIodLWcrBwbz/giphy.gif" height="150px" width="150px"/>
-  Welcome to my GitHub!
-  </h1>
+</div>
+<div align="center">
+   Welcome to my GitHub!
 </div>
     
 <div id="badges">
   <a href="https://www.linkedin.com/in/rossebell/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" align="center" alt="LinkedIn Badge"/>
   </a>
 </div>
   
 <div>
-    <img src="https://komarev.com/ghpvc/?username=Rosy24dr&style=flat-square&color=blue" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=Rosy24dr&style=flat-square&color=blue" align="center" />
 </div>
 </div>
   
@@ -50,7 +49,7 @@ height="40"/>&nbsp;
 height="40"/>&nbsp;
 </div>
 
-<!-- --- -->
+
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rosy24dr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
